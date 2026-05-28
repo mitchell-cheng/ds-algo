@@ -157,5 +157,4 @@ Implementing **data structures** and **algorithms** using *JavaScript* and *Pyth
 * Adjacency **matrix**
 * Adjacency **list**
 * **Breadth** first search
-* 
 
